@@ -11,11 +11,13 @@ I'm an aspiring **Web Developer** passionate about turning ideas into websites &
 - My Portfolio Website (coming soon!)
 - JavaScript To-Do List (coming soon!)
 
-## 📫 Connect with Me
-- [LinkedIn]() (linkedin.com/in/winnie-karaya-932605332)
-- [Email](winniekaraya18@gmail.com)
+## 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/winnie-karaya-932605332)
+- [Email](mailto:winniekaraya18@gmail.com)
 
 Let's build the future together 💻✨
+
+
 
 
 <!---
